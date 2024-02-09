@@ -7,3 +7,5 @@ formato = string.format(
 )
 
 print(formato)
+
+print('Diones')
